@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/michaell/qmail/qmail_app/validation'
+let g:netrw_dirhist_2='/home/michaell/websim_ve/websim_app/websim_app/lib'
+let g:netrw_dirhist_3='/media/9670AB3E70AB2449'
+let g:netrw_dirhist_4='/home/michaell/websim_ve/websim_app/docs/source'
+let g:netrw_dirhist_5='/home/michaell/websim_ve/websim_app/websim_app/public/css'
